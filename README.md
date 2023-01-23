@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### I still love android and especially passionate android developers.
-
 <!--
 **dstramousov/dstramousov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
