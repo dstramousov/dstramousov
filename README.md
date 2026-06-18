@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img width="900" height="900" alt="dmytro_public_qr" src="https://github.com/user-attachments/assets/0112ea11-e9f7-4378-a3d3-4fe5af051227" />
+<img width="400" height="400" alt="short_phrase_qr" src="https://github.com/user-attachments/assets/04582813-5b0e-4de1-bdd8-c7ebba4850ff" />
+
 
 <!--
 **dstramousov/dstramousov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
