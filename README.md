@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="400" height="400" alt="short_phrase_qr" src="https://github.com/user-attachments/assets/04582813-5b0e-4de1-bdd8-c7ebba4850ff" />
+<img width="800" height="800" alt="life_treasure_qr" src="https://github.com/user-attachments/assets/6ef179ed-721a-447f-9703-03d7076646a8" />
 
 
 <!--
