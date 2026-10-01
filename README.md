@@ -45,6 +45,12 @@ I like building software that interacts with real things.
 
 ---
 
+## 🧩 LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/DmytroStramousov?theme=dark&font=Fira%20Code&ext=activity,contest,heatmap)](https://leetcode.com/u/DmytroStramousov/)
+
+---
+
 ## 📊 GitHub overview
 
 <div align="center">
