@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Dimas
+# 👋 Hi, I'm Dmytro Stramousov
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Linux+%E2%80%A2+Software+%E2%80%A2+Hardware;Game+engines+%E2%80%A2+Retro+computing;Automation+%E2%80%A2+Testing+%E2%80%A2+Experiments;Building+things+because+I+can.)](https://git.io/typing-svg)
 
@@ -70,16 +70,6 @@ I like building software that interacts with real things.
 
 ---
 
-## 📈 Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dstramousov&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-
-</div>
-
----
-
 ## 🧬 Languages
 
 <p align="center">
@@ -95,81 +85,3 @@ I like building software that interacts with real things.
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dstramousov&theme=github_dark" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dstramousov&theme=github_dark&utcOffset=3" />
 </p>
-
----
-
-## 🚀 Projects
-
-<p align="center">
-  <a href="https://github.com/dstramousov/Vox3D">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dstramousov&repo=Vox3D&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/dstramousov/ShootAndRun">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dstramousov&repo=ShootAndRun&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dstramousov/BBSim">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dstramousov&repo=BBSim&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/dstramousov/SpriteMotionLab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dstramousov&repo=SpriteMotionLab&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dstramousov/ZX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dstramousov&repo=ZX&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/dstramousov/TopDownShooter-V2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dstramousov&repo=TopDownShooter-V2&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
-<details>
-<summary><b>More projects</b></summary>
-<br>
-
-<p align="center">
-  <a href="https://github.com/dstramousov/TopDownMapGen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dstramousov&repo=TopDownMapGen&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/dstramousov/CruelWorld">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dstramousov&repo=CruelWorld&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dstramousov/ShinFramework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dstramousov&repo=ShinFramework&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/dstramousov/cReader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dstramousov&repo=cReader&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
-</details>
-
----
-
-## 🏆 GitHub trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dstramousov&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=8&column=-1" />
-
-</div>
-
----
-
-## ⚙️ Things I enjoy
-
-```text
-Linux          ████████████████████
-Old computers  ████████████████████
-Game engines   ██████████████████░░
-Hardware       ██████████████████░░
-Automation     ███████████████████░
-Debugging      ████████████████████
-Sleep          ██████░░░░░░░░░░░░░░
