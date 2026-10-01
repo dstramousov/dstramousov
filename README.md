@@ -34,21 +34,6 @@ I like building software that interacts with real things.
 
 ---
 
-## ⚙️ Professional focus
-
-```text
-Performance engineering     ████████████████████
-Load & stress testing       ███████████████████░
-Backend / API testing       ███████████████████░
-System diagnostics          ████████████████████
-Linux / UNIX                ████████████████████
-Automation                  ███████████████████░
-Distributed systems         ██████████████████░░
-Databases                   █████████████████░░░
-```
-
----
-
 ## 🛠 Tech & tools
 
 ### Performance & testing
@@ -100,7 +85,6 @@ Databases                   █████████████████�
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/UML-555555?style=for-the-badge" />
 </p>
 
 <details>
@@ -112,6 +96,20 @@ Databases                   █████████████████�
 </details>
 
 ---
+## 🎓 Early certifications
+
+> Brainbench certifications from the early 2000s
+
+<p>
+  <img src="https://img.shields.io/badge/Brainbench-C%20Programmer-2f81f7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Brainbench-Perl%20Programmer-39457E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Brainbench-Linux%20Programming%20(General)-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+- **Linux Programming (General)** — Brainbench, 2000
+- **Perl Programmer** — Brainbench, 2001
+- **C Programmer** — Brainbench, 2001
+---
 
 ## 🧪 Engineering interests
 
@@ -119,7 +117,7 @@ Databases                   █████████████████�
 - Automated testing of hardware/software systems
 - Distributed applications and client/server architecture
 - Linux systems and low-level diagnostics
-- Game engine architecture and graphics
+- OLD game engine architecture and graphics Z80/MSDOS
 - Embedded devices and serial communication
 - Retro computing and emulation
 
