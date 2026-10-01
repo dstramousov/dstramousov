@@ -101,9 +101,9 @@ I like building software that interacts with real things.
 > Brainbench certifications from the early 2000s
 
 <p>
-  <img src="https://img.shields.io/badge/Brainbench-C%20Programmer-2f81f7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Brainbench-Perl%20Programmer-39457E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Brainbench-Linux%20Programming%20(General)-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Brainbench-C%20Programmer-2f81f7?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/Brainbench-Perl%20Programmer-39457E?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/Brainbench-Linux%20Programming%20(General)-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>
 </p>
 
 - **Linux Programming (General)** — Brainbench, 2000
