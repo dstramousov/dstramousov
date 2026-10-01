@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=dstramousov&label=Profile+views&color=0e75b6&style=flat)
+
 <img width="800" height="800" alt="life_treasure_qr" src="https://github.com/user-attachments/assets/6ef179ed-721a-447f-9703-03d7076646a8" />
 
 
