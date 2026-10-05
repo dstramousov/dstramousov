@@ -164,12 +164,3 @@ I like building software that interacts with real things.
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dstramousov&theme=github_dark" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dstramousov&theme=github_dark" />
 </p>
-
----
-
-## ⏰ Coding activity
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dstramousov&theme=github_dark" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dstramousov&theme=github_dark&utcOffset=3" />
-</p>
