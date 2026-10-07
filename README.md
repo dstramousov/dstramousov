@@ -24,7 +24,6 @@ I like building software that interacts with real things.
 - 🧪 Backend and frontend test automation
 - 🐍 Python tooling and automation
 - 🐳 Dockerized test and development environments
-- 🗄 SQL databases and data-intensive systems
 - 🔧 Hardware, serial interfaces and embedded experiments
 - 🎮 Game engines, graphics and procedural systems
 - 🕹 Retro computers, emulation and old hardware
