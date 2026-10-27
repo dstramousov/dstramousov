@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Linux+%E2%80%A2+Software+%E2%80%A2+Hardware;Performance+%E2%80%A2+Automation+%E2%80%A2+Testing;Game+engines+%E2%80%A2+Retro+computing;Building+things+because+I+can.)](https://git.io/typing-svg)
 
-![Profile views](https://komarev.com/ghpvc/?username=dstramousov&label=Profile+views&color=0969da&style=flat)
+
+![Profile views](https://komarev.com/ghpvc/?username=dstramousov&label=Profile+views&color=0969da&style=flat&base=4444)
 ![GitHub followers](https://img.shields.io/github/followers/dstramousov?label=Followers&style=flat&color=0969da)
 ![GitHub User's stars](https://img.shields.io/github/stars/dstramousov?affiliations=OWNER&style=flat&color=0969da)
 
