@@ -2,15 +2,14 @@
 
 # 👋 Hi, I'm Dmytro Stramousov
 
-<br>
+<div align="center">
+  <img
+    src="dstramousov_games_showreel_60s_compact.gif"
+    width="100%"
+    alt="Game Development Showreel"
+  />
+</div>
 
-<img
-  src="dstramousov_showcase_60s.gif"
-  alt="Dmytro Stramousov — Projects Showcase"
-  width="100%"
-/>
-
-<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Linux+%E2%80%A2+Software+%E2%80%A2+Hardware;Performance+%E2%80%A2+Automation+%E2%80%A2+Testing;Game+engines+%E2%80%A2+Retro+computing;Building+things+because+I+can.)](https://git.io/typing-svg)
 
