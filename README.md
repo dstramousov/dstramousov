@@ -2,25 +2,7 @@
 
 # 👋 Hi, I'm Dmytro Stramousov
 
-<div align="center">
-  <img
-    src="dstramousov_games_showreel_60s_compact.gif"
-    width="100%"
-    alt="Game Development Showreel"
-  />
 </div>
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Linux+%E2%80%A2+Software+%E2%80%A2+Hardware;Performance+%E2%80%A2+Automation+%E2%80%A2+Testing;Game+engines+%E2%80%A2+Retro+computing;Building+things+because+I+can.)](https://git.io/typing-svg)
-
-
-![Profile views](https://komarev.com/ghpvc/?username=dstramousov&label=Profile+views&color=0969da&style=flat&base=4444)
-![GitHub followers](https://img.shields.io/github/followers/dstramousov?label=Followers&style=flat&color=0969da)
-![GitHub User's stars](https://img.shields.io/github/stars/dstramousov?affiliations=OWNER&style=flat&color=0969da)
-
-</div>
-
----
 
 ## About me
 
@@ -40,6 +22,77 @@ I like building software that interacts with real things.
 - 🧠 Experiments are more interesting than buzzwords
 
 > Build it. Measure it. Break it. Understand it. Improve it.
+
+---
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/dstramousov/dstramousov/master/Mode256_v0.0.187_GitHub.gif"
+    width="700"
+    alt="Mode256 — Pixel Engine Demo"
+  />
+</div>
+
+## 🎮 MODE256 256*192 = 49 152 пикселя ностальгии.
+
+Когда-то демосцена ZX Spectrum поразила меня магией на 3,5 МГц, и 48 килобайтами памяти и палитрой, которая напоминала бред шизовреника. 
+Из ограничений сделали искусство, а из каждого такта - восхтщение неофита.
+С тех пор прошло сорок лет: памяти теперь достаточно даже программам, которым "**достаточно 640Кб**". Но захотелось проверить, **что будет, если вернуть экрану честные 256×192 пикселя, а вычисления доверить современному CPU**. 
+Так появился то чем я занимаюсь вечерами - Mode256,  2D/2.5D движок, в котором можно увидеть, или не увидеть то что когда то волновало.
+
+### Что  работает
+
+- **🎨 Программный рендеринг.** Собственный CPU-рендерер, RGBA, прозрачность, слои, буфер глубины и целочисленное масштабирование без "Игорьтонет". В кадре ровно **49 152 пикселя**.
+- **🌲 Игровые миры и растительность.** Большие карты, камера, тайлы, сооружения и более **1300 растений** в лесной сцене. Контент собирается в **Tiled**, затем проходит собственный компилятор.
+- **💡 Свет и тени.** Цветные источники, прожекторы, высота света, затухание, затенение поверхностей, силуэтные тени и геометрия сооружений.
+- **🌧️ Погода и частицы.** Дождь, снег, ветер, порывы, турбулентность, искры, дым и фонтаны частиц. Осадки взаимодействуют с поверхностями и глубиной сцены.
+- **🔥 Огонь.** Анимированные костры, искры и мерцающий тёплый свет.
+- **📦 Физика и разрушения.** **Box2D**: столкновения, масса, инерция, вращение и толкание предметов. Ящики накапливают повреждения и распадаются на физические обломки.
+- **🔫 Оружие и эффекты.** Пистолет и автоматическое оружие, отдача, разброс, перезарядка, трассеры, вспышки, рикошеты, дым и следы попаданий. Выстрелы на мгновение освещают сцену.
+- **🤖 AI противников.** Охрана, патрулирование, поле зрения, проверка прямой видимости, память о последнем контакте, поиск точки наблюдения и обход препятствий.
+- **🎮 Управление и камера.** Клавиатура, мышь, геймпад, физическое движение персонажа, плавное слежение камеры и навигационная инфраструктура.
+- **🎵 Звук старой школы.** **PT3, TurboSound, AYFX** — музыка и эффекты с узнаваемым характером AY.
+- **🔧 Инструменты и оптимизация.** **F12 Developer Inspector**, профилирование, настройка эффектов, пространственные индексы, отсечение невидимых объектов и кеширование.
+
+**Технологии:** C++ · SDL3 · Box2D · Tiled · Python · CMake · Linux.
+
+**Mode256 пока не готовая игра**, а развивающийся движок и лаборатория. Классическая демосцена доказывала, что невозможное можно показать.
+
+*Когда-то 48 килобайт хватало для чуда. Теперь у нас гигабайты — и всё те же 256×192 пикселя, которые напоминают с чего это начиналось.*
+
+---
+
+## 🎬 Game development showreel
+
+<div align="center">
+
+<img
+  src="dstramousov_games_showreel_60s_compact.gif"
+  width="100%"
+  alt="Game Development Showreel"
+/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Linux+%E2%80%A2+Software+%E2%80%A2+Hardware;Performance+%E2%80%A2+Automation+%E2%80%A2+Testing;Game+engines+%E2%80%A2+Retro+computing;Building+things+because+I+can.)](https://git.io/typing-svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=dstramousov&label=Profile+views&color=0969da&style=flat&base=4444)
+![GitHub followers](https://img.shields.io/github/followers/dstramousov?label=Followers&style=flat&color=0969da)
+![GitHub User's stars](https://img.shields.io/github/stars/dstramousov?affiliations=OWNER&style=flat&color=0969da)
+
+</div>
+
+---
+
+## 📈 GitHub activity
+
+<div align="center">
+
+<!-- Total Commits: includes commits from previous years, as counted by the widget. -->
+<img src="https://github-readme-stats.vercel.app/api?username=dstramousov&show_icons=true&include_all_commits=true&number_format=long&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics including total commits" />
+
+<!-- Contributions include activity beyond commits. The chart shows public contribution activity. -->
+<img src="https://ghchart.rshah.org/2ea043/dstramousov" width="100%" alt="GitHub contributions calendar" />
+
+</div>
 
 ---
 
@@ -103,6 +156,7 @@ I like building software that interacts with real things.
 </details>
 
 ---
+
 ## 🎓 Early certifications
 
 > Brainbench certifications from the early 2000s
@@ -116,17 +170,6 @@ I like building software that interacts with real things.
 - **Linux Programming (General)** — Brainbench, 2000
 - **Perl Programmer** — Brainbench, 2001
 - **C Programmer** — Brainbench, 2001
----
-
-## 🧪 Engineering interests
-
-- Performance engineering and observability
-- Automated testing of hardware/software systems
-- Distributed applications and client/server architecture
-- Linux systems and low-level diagnostics
-- OLD game engine architecture and graphics Z80/MSDOS
-- Embedded devices and serial communication
-- Retro computing and emulation
 
 ---
 
@@ -134,40 +177,6 @@ I like building software that interacts with real things.
 
 <p align="center">
   <a href="https://leetcode.com/u/DmytroStramousov/">
-    <img src="https://leetcard.jacoblin.cool/DmytroStramousov?theme=dark&font=Fira%20Code&ext=activity,contest,heatmap" />
+    <img src="https://leetcard.jacoblin.cool/DmytroStramousov?theme=dark&font=Fira%20Code&ext=activity,contest,heatmap" alt="LeetCode profile" />
   </a>
-</p>
-
----
-
-## 📊 GitHub overview
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dstramousov&theme=github_dark" />
-
-</div>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dstramousov&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dstramousov&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
-</p>
-
----
-
-## 🔥 Contributions & streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=dstramousov&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 🧬 Languages
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dstramousov&theme=github_dark" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dstramousov&theme=github_dark" />
 </p>
