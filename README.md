@@ -27,7 +27,7 @@ I like building software that interacts with real things.
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/dstramousov/dstramousov/master/Mode256_v0.0.187_GitHub.gif"
+    src="Mode256_v0.0.187_Showreel_Smooth-1.webp"
     width="700"
     alt="Mode256 — Pixel Engine Demo"
   />
