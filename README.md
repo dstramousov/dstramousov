@@ -23,16 +23,6 @@ I like building software that interacts with real things.
 
 > Build it. Measure it. Break it. Understand it. Improve it.
 
----
-
-<div align="center">
-  <img
-    src="Mode256_v0.0.187_Showreel_Smooth-1.webp"
-    width="700"
-    alt="Mode256 — Pixel Engine Demo"
-  />
-</div>
-
 ## 🎮 MODE256 256*192 = 49 152 пикселя ностальгии.
 
 Когда-то демосцена ZX Spectrum поразила меня магией на 3,5 МГц, и 48 килобайтами памяти и палитрой, которая напоминала бред шизовреника. 
@@ -59,6 +49,16 @@ I like building software that interacts with real things.
 **Mode256 пока не готовая игра**, а развивающийся движок и лаборатория. Классическая демосцена доказывала, что невозможное можно показать.
 
 *Когда-то 48 килобайт хватало для чуда. Теперь у нас гигабайты — и всё те же 256×192 пикселя, которые напоминают с чего это начиналось.*
+
+---
+
+<div align="center">
+  <img
+    src="Mode256_v0.0.187_Showreel_Smooth-1.webp"
+    width="700"
+    alt="Mode256 — Pixel Engine Demo"
+  />
+</div>
 
 ---
 
