@@ -4,6 +4,23 @@
 
 </div>
 
+---
+
+## 📈 GitHub activity
+
+<div align="center">
+
+<!-- Total Commits: includes commits from previous years, as counted by the widget. -->
+<img src="https://github-readme-stats.vercel.app/api?username=dstramousov&show_icons=true&include_all_commits=true&number_format=long&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics including total commits" />
+
+<!-- Contributions include activity beyond commits. The chart shows public contribution activity. -->
+<img src="https://ghchart.rshah.org/2ea043/dstramousov" width="100%" alt="GitHub contributions calendar" />
+
+</div>
+
+---
+
+
 ## About me
 
 Software and Performance Test Engineer with 20+ years of experience in software development, UNIX environments, distributed systems and performance engineering.
@@ -58,40 +75,6 @@ I like building software that interacts with real things.
     width="700"
     alt="Mode256 — Pixel Engine Demo"
   />
-</div>
-
----
-
-## 🎬 Game development showreel
-
-<div align="center">
-
-<img
-  src="dstramousov_games_showreel_60s_compact.gif"
-  width="100%"
-  alt="Game Development Showreel"
-/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Linux+%E2%80%A2+Software+%E2%80%A2+Hardware;Performance+%E2%80%A2+Automation+%E2%80%A2+Testing;Game+engines+%E2%80%A2+Retro+computing;Building+things+because+I+can.)](https://git.io/typing-svg)
-
-![Profile views](https://komarev.com/ghpvc/?username=dstramousov&label=Profile+views&color=0969da&style=flat&base=4444)
-![GitHub followers](https://img.shields.io/github/followers/dstramousov?label=Followers&style=flat&color=0969da)
-![GitHub User's stars](https://img.shields.io/github/stars/dstramousov?affiliations=OWNER&style=flat&color=0969da)
-
-</div>
-
----
-
-## 📈 GitHub activity
-
-<div align="center">
-
-<!-- Total Commits: includes commits from previous years, as counted by the widget. -->
-<img src="https://github-readme-stats.vercel.app/api?username=dstramousov&show_icons=true&include_all_commits=true&number_format=long&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics including total commits" />
-
-<!-- Contributions include activity beyond commits. The chart shows public contribution activity. -->
-<img src="https://ghchart.rshah.org/2ea043/dstramousov" width="100%" alt="GitHub contributions calendar" />
-
 </div>
 
 ---
@@ -170,13 +153,3 @@ I like building software that interacts with real things.
 - **Linux Programming (General)** — Brainbench, 2000
 - **Perl Programmer** — Brainbench, 2001
 - **C Programmer** — Brainbench, 2001
-
----
-
-## 🧩 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/DmytroStramousov/">
-    <img src="https://leetcard.jacoblin.cool/DmytroStramousov?theme=dark&font=Fira%20Code&ext=activity,contest,heatmap" alt="LeetCode profile" />
-  </a>
-</p>
