@@ -11,7 +11,6 @@
 <div align="center">
 
 <!-- Total Commits: includes commits from previous years, as counted by the widget. -->
-<img src="https://github-readme-stats.vercel.app/api?username=dstramousov&show_icons=true&include_all_commits=true&number_format=long&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics including total commits" />
 
 <!-- Contributions include activity beyond commits. The chart shows public contribution activity. -->
 <img src="https://ghchart.rshah.org/2ea043/dstramousov" width="100%" alt="GitHub contributions calendar" />
@@ -38,17 +37,16 @@ I like building software that interacts with real things.
 - 🕹 Retro computers, emulation and old hardware
 - 🧠 Experiments are more interesting than buzzwords
 
-> Build it. Measure it. Break it. Understand it. Improve it.
+
+# <Dmytro's heartfelt note> 
 
 ## 🎮 MODE256 256*192 = 49 152 пикселя ностальгии.
 
 Когда-то демосцена ZX Spectrum поразила меня магией на 3,5 МГц, 48 килобайтами памяти и палитрой, которая напоминала бред шизофреника.
 
-Из ограничений сделали искусство, из которого появились Дмитрий Гуртяк и иже с ним, а из каждого такта — восхищение неофита, т. е. меня.
-
 С тех пор прошло сорок лет, и теперь памяти достаточно даже программам, которым «**достаточно 640 КБ**». И мне захотелось проверить, **что будет, если вернуть экрану честные 256×192 пикселя, а вычисления доверить современному CPU**.
 
-Так появилось то, чем я занимаюсь вечерами, — Mode256, 2D/2.5D-движок, в котором можно увидеть (или не увидеть) то, что когда-то волновало.
+Так появился — Mode256, 2D/2.5D-движок, в котором можно увидеть (или не увидеть) то, что когда-то волновало юнных неофитов вроде меня.
 
 ### Что  работает
 
@@ -66,11 +64,11 @@ I like building software that interacts with real things.
 
 **Технологии:** C++ · SDL3 · Box2D · Tiled · Python · CMake · Linux.
 
-**Mode256 пока не готовая игра**, а развивающийся движок и лаборатория. Классическая демосцена доказывала, что невозможное можно показать.
+**Mode256 пока не готовая игра**, а развивающийся движок и лаборатория.
 
-*Когда-то 48 килобайт хватало для чуда. Теперь у нас гигабайты — и всё те же 256×192 пикселя, которые напоминают с чего это начиналось.*
+*Когда-то 48 килобайт хватало для чуда. Теперь у нас гигабайты — и всё некоторые помнят с чего это начиналось.*
 
----
+# <Dmytro's heartfelt note end> 
 
 <div align="center">
   <img
