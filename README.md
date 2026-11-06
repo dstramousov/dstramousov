@@ -38,7 +38,7 @@ I like building software that interacts with real things.
 - 🧠 Experiments are more interesting than buzzwords
 
 
-# <Dmytro's heartfelt note> 
+# Soul-baring 
 
 ## 🎮 MODE256 256*192 = 49 152 пикселя ностальгии.
 
@@ -66,9 +66,9 @@ I like building software that interacts with real things.
 
 **Mode256 пока не готовая игра**, а развивающийся движок и лаборатория.
 
-*Когда-то 48 килобайт хватало для чуда. Теперь у нас гигабайты — и всё некоторые помнят с чего это начиналось.*
+*Когда-то 48 килобайт хватало для чуда. Теперь у нас гигабайты — и всё-же некоторые помнят с чего все это начиналось.*
 
-# <Dmytro's heartfelt note end> 
+# End soul-baring 
 
 <div align="center">
   <img
